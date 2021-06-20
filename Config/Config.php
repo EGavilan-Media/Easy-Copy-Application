@@ -1,6 +1,5 @@
 <?php
-const BASE_URL = "http://localhost/egavilanmedia/38-Easy-Copy-Application/Demos/Github/Easy-Copy-Application";
-// C:\xampp\htdocs\egavilanmedia\38-Easy-Copy-Application\Demos\Github\Easy-Copy-Application
+const BASE_URL = "http://localhost/egavilanmedia/Easy-Copy-Application";
 
 //Database connection data
 const DB_HOST = "localhost";
